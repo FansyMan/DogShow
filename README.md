@@ -20,10 +20,7 @@
 Реализованы Refresh Controls, можно потянуть экран вниз и данные обновятся</br>
 Добавлены спиннеры, которые крутятся, пока загружаются данные или фотографии</br>
 Настроены распознователи жестов (одиночное нажатие на ячейку коллекции с фотографиями и долгое нажатие на ячейку)</br>
-Старался писать код по-взрослому: файлы по папочкам, final-классы, private переменные, константы вынес в Enums, переиспользование ячеек</br></br>![141738354-564eae71-5d18-4c7c-b4b7-d6705194098b](https://user-images.githubusercontent.com/90684635/142833635-54e840d1-475a-449f-8447-213c2bb3fa53.PNG)
-![141738357-10dadd32-98ae-4908-93d3-1a21b54b5cfc](https://user-images.githubusercontent.com/90684635/142833642-e2a1b185-a6d9-47e2-8005-8a4723b6ab7d.PNG)
-![141738369-417cba37-c76b-4db8-bd1d-c39cfc8c075e](https://user-images.githubusercontent.com/90684635/142833662-0ed28209-a315-4cc6-99b2-0d160866cced.PNG)
-![141738374-88fa9f0f-95da-418e-85d8-a14f56345da6](https://user-images.githubusercontent.com/90684635/142833670-7393508e-daf4-4a6f-b01f-ee5b45562a57.PNG)
+Старался писать код по-взрослому: файлы по папочкам, final-классы, private переменные, константы вынес в Enums, переиспользование ячеек</br></br>
 
 <img src="https://user-images.githubusercontent.com/90684635/142833635-54e840d1-475a-449f-8447-213c2bb3fa53.PNG" width="200" /></br></br>
 <img src="https://user-images.githubusercontent.com/90684635/142833642-e2a1b185-a6d9-47e2-8005-8a4723b6ab7d.PNG" width="200" /></br></br>
